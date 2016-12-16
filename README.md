@@ -11,4 +11,4 @@ $ docker run -d -e "ACCOUNT=foo" -e "PASSWORD=bar" ushios/ieserver-update
 | KEY    | DEFAULT VALUE    | MEMO                      |
 | ------ | ---------------- | ------------------------- |
 | DOMAIN | dip.jp           | domain name               |
-| MINUTE | 1,11,21,31,41,51 | crontab setting in minute |
+| MINUTE | 17,38,52         | crontab setting in minute |
