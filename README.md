@@ -1,5 +1,5 @@
-# docker-ieserver-update
-update xxxx.dip.jp ddns ip
+# docker-udpate-ieserver-ddns-record
+update xxxx.dip.jp ddns record
 
 ```bash
 $ docker run -d -e "ACCOUNT=foo" -e "PASSWORD=bar" ushios/ieserver-update

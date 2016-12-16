@@ -7,7 +7,7 @@ ENV ACCOUNT=dummy \
 
 ENV REMOTE_ADDR_CHK=https://ieserver.net/ipcheck.shtml \
     DDNS_UPDATE=https://ieserver.net/cgi-bin/dip.cgi \
-    MINUTE=1,11,21,31,41,51 \
+    MINUTE=17,38,52 \
     SCRIPT_PATH=/usr/local/bin/cron.sh \
     CRON_LOG=/var/log/cron \
     CRON_ERR_LOG=/var/log/cron.err
