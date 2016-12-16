@@ -2,7 +2,7 @@ FROM alpine:latest
 MAINTAINER Ushio Shugo <ushio.s@gmail.com>
 
 ENV ACCOUNT=dummy \
-    DOMAIN=dummy \
+    DOMAIN=dip.jp \
     PASSWORD=dummy
 
 ENV REMOTE_ADDR_CHK=https://ieserver.net/ipcheck.shtml \
