@@ -2,7 +2,7 @@
 update xxxx.dip.jp ddns record
 
 ```bash
-$ docker run -d -e "ACCOUNT=foo" -e "PASSWORD=bar" ushios/ieserver-update
+$ docker run -d -e "ACCOUNT=foo" -e "PASSWORD=bar" ushios/udpate-ieserver-ddns-record
 ```
 
 
